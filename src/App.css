@@ -1,3 +1,8 @@
+body {
+  background: #555;
+  color: white;
+}
+
 form {
   width: 90%;
   max-width: 400px;
@@ -6,6 +11,6 @@ form {
   gap: 20px;
 }
 
-input.submitButton {
+.submitButton {
   justify-self: start;
 }
